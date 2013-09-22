@@ -12,8 +12,7 @@
   
   <servlet>
 		<servlet-name>AppServlet</servlet-name>
-		<servlet-class>com.sbu.servlet</servlet-class>
+		<servlet-class>com.sbu.servlet.AppServlet</servlet-class>
         <load-on-startup>1</load-on-startup>
 	</servlet>
-	
 </web-app>
